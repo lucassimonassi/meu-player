@@ -1,0 +1,11 @@
+{
+  "id": "com.meuplayer.app",
+  "version": "1.0.0",
+  "vendor": "MeuPlayer",
+  "type": "web",
+  "main": "index.html",
+  "title": "Meu Player",
+  "icon": "icon.png",
+  "largeIcon": "icon.png",
+  "resolution": "1920x1080"
+}
